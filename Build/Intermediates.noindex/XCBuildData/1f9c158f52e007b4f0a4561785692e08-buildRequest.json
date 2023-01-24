@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "7ca2c839b58d3e6600c03520667e0f80eada6e1819d20e1e185c72b09c7a282c"
+    }
+  ],
+  "containerPath" : "/Users/angelaflores/Desktop/CSCI 40/XCodes/Section 3/Week 12 Exercises/Week 12 Exercises.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/angelaflores/Desktop/CSCI 40/XCodes/Section 3/Week 12 Exercises/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/angelaflores/Desktop/CSCI 40/XCodes/Section 3/Week 12 Exercises/Build/Products",
+      "derivedDataPath" : "/Users/angelaflores/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/angelaflores/Library/Developer/Xcode/DerivedData/Week_12_Exercises-dzjudzkbqdrpdcdbczqpdbtkmhyt/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/angelaflores/Library/Developer/Xcode/DerivedData/Week_12_Exercises-dzjudzkbqdrpdcdbczqpdbtkmhyt/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/angelaflores/Desktop/CSCI 40/XCodes/Section 3/Week 12 Exercises/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
